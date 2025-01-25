@@ -1,6 +1,5 @@
 {
 	"name": "AzureBlobStorage1",
-	"type": "Microsoft.DataFactory/factories/linkedservices",
 	"properties": {
 		"annotations": [],
 		"type": "AzureBlobStorage",
@@ -8,5 +7,6 @@
 			"serviceEndpoint": "https://gcganalysisdatalake.blob.core.windows.net/",
 			"accountKind": "StorageV2"
 		}
-	}
+	},
+	"type": "Microsoft.DataFactory/factories/linkedservices"
 }
