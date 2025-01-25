@@ -5,11 +5,14 @@
 		"factoryName": {
 			"value": "gcg-analysis"
 		},
+		"ADLS_accountKey": {
+			"value": ""
+		},
 		"HttpServergit_password": {
 			"value": ""
 		},
-		"AzureBlobStorage1_properties_typeProperties_serviceEndpoint": {
-			"value": "https://gcganalysisdatalake.blob.core.windows.net/"
+		"ADLS_properties_typeProperties_url": {
+			"value": "https://gcganalysisdatalake.dfs.core.windows.net/"
 		},
 		"HttpServergit_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com/Nallaganti/globalClimeGraph/refs/heads/main/data/global-climate-change(1900-2023).txt"

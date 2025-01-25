@@ -7,13 +7,17 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "gcg-analysis"
 		},
+		"ADLS_accountKey": {
+			"type": "secureString",
+			"metadata": "Secure string for 'accountKey' of 'ADLS'"
+		},
 		"HttpServergit_password": {
 			"type": "secureString",
 			"metadata": "Secure string for 'password' of 'HttpServergit'"
 		},
-		"AzureBlobStorage1_properties_typeProperties_serviceEndpoint": {
+		"ADLS_properties_typeProperties_url": {
 			"type": "string",
-			"defaultValue": "https://gcganalysisdatalake.blob.core.windows.net/"
+			"defaultValue": "https://gcganalysisdatalake.dfs.core.windows.net/"
 		},
 		"HttpServergit_properties_typeProperties_url": {
 			"type": "string",
@@ -50,11 +54,14 @@
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
 					},
+					"ADLS_accountKey": {
+						"value": "[parameters('ADLS_accountKey')]"
+					},
 					"HttpServergit_password": {
 						"value": "[parameters('HttpServergit_password')]"
 					},
-					"AzureBlobStorage1_properties_typeProperties_serviceEndpoint": {
-						"value": "[parameters('AzureBlobStorage1_properties_typeProperties_serviceEndpoint')]"
+					"ADLS_properties_typeProperties_url": {
+						"value": "[parameters('ADLS_properties_typeProperties_url')]"
 					},
 					"HttpServergit_properties_typeProperties_url": {
 						"value": "[parameters('HttpServergit_properties_typeProperties_url')]"
