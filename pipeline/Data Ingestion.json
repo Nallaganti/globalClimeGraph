@@ -28,7 +28,7 @@
 					"sink": {
 						"type": "DelimitedTextSink",
 						"storeSettings": {
-							"type": "AzureBlobStorageWriteSettings"
+							"type": "AzureBlobFSWriteSettings"
 						},
 						"formatSettings": {
 							"type": "DelimitedTextWriteSettings",
@@ -54,7 +54,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "blobStorage",
+						"referenceName": "dest_datalake",
 						"type": "DatasetReference",
 						"parameters": {
 							"CONTAINER": "gcgdata",
