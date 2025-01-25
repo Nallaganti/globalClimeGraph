@@ -1,0 +1,9 @@
+{
+	"name": "gcg-analysis",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eefe9b07-a70e-4f1d-a946-5bf58f0972c5",
+		"tenantId": "6f8c0d61-6cbd-4b8c-bcbb-7173eda4f765"
+	}
+}
