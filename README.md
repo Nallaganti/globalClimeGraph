@@ -37,30 +37,8 @@ The **Global Clime Graph** is a comprehensive solution for monitoring and analyz
 
 ## Architecture
 
-### Architecture Design
-
-The architecture for the **Global Clime Graph** project is designed to handle data ingestion, processing, storage, and visualization. Below is the design:
-
-#### 1. **Data Sources**
-   - Various climate datasets (e.g., NOAA, NASA, IPCC).
-   - APIs for real-time climate data updates.
-   - Static files (CSV, JSON) for historical data.
-
-#### 2. **Data Pipeline**
-   - **Ingestion**: Scripts fetch data from APIs or upload static files.
-   - **Transformation**: Python scripts process and clean raw data.
-   - **Storage**: Data is saved in structured formats (e.g., databases, CSV) within the `data/` folder for further use.
-
-#### 3. **Data Storage**
-   - Local storage (`data/` directory).
-   - Cloud options for scalability (e.g., AWS S3, Azure Blob Storage).
-
-#### 4. **Deployment**
-   - Publish dashboards to Power BI Service for sharing.
-   - Automate data updates via scheduled pipelines or triggers.
-
-![Architecture]
-
+### Architecture
+![image](https://github.com/user-attachments/assets/494f60d3-d81b-4846-8ff8-2a83e233f4c8)
 
 ## Visualization
 
