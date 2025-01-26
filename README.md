@@ -34,10 +34,11 @@ The **Global Clime Graph** is a comprehensive solution for monitoring and analyz
 - **Microsoft Azure Account**: Project Building.
 - **Power BI Desktop**: To view and interact with the `globalClimeGraph.pbix` dashboard.
 - **Steps to follow**: `projectSetup.txt`.
-## Services Used
 
 ## Architecture
 ![image](https://github.com/user-attachments/assets/494f60d3-d81b-4846-8ff8-2a83e233f4c8)
+
+## Services Used
 
 ## Power BI Dashboard
 ![image](https://github.com/user-attachments/assets/91f9000b-62c0-49dc-98e3-d2408fe65753)
