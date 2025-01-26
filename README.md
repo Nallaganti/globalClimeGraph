@@ -1,7 +1,7 @@
 # Global Clime Graph
 
 The **Global Clime Graph** is a comprehensive solution for monitoring and analyzing global climate trends. Leveraging powerful data pipelines, visualizations, and tools, this project aims to present key insights about climate change, temperature anomalies, greenhouse gas emissions, and other critical metrics that shape our understanding of the Earth's climate.
-
+##Goals
 ## Features
 
 - **Interactive Dashboard**: The project includes a Power BI dashboard (`globalClimeGraph.pbix`) that provides:
@@ -34,13 +34,9 @@ The **Global Clime Graph** is a comprehensive solution for monitoring and analyz
 - **Microsoft Azure Account**: Project Building.
 - **Power BI Desktop**: To view and interact with the `globalClimeGraph.pbix` dashboard.
 - **Steps to follow**: `projectSetup.txt`.
-
-## Architecture
-
+## Services Used
 ### Architecture
 ![image](https://github.com/user-attachments/assets/494f60d3-d81b-4846-8ff8-2a83e233f4c8)
-
-## Visualization
 
 ### Power BI Dashboard
 The sample reports :
