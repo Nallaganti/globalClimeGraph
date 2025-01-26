@@ -1,8 +1,4 @@
-# globalClimeGraph
-
 # Global Clime Graph
-
-## Project Overview
 
 The **Global Clime Graph** is a comprehensive solution for monitoring and analyzing global climate trends. Leveraging powerful data pipelines, visualizations, and tools, this project aims to present key insights about climate change, temperature anomalies, greenhouse gas emissions, and other critical metrics that shape our understanding of the Earth's climate.
 
