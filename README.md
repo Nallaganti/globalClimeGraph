@@ -32,8 +32,8 @@ The **Global Clime Graph** is a comprehensive solution for monitoring and analyz
 ## Requirements
 
 - **Power BI Desktop**: To view and interact with the `globalClimeGraph.pbix` dashboard.
-- **Python**: For running data processing scripts.
-- **Supported Libraries**: Install dependencies using `requirements.txt` (if provided).
+- **Microsoft Azure Account**: Project Building.
+- **Steps to follow**: Use `requirements.txt`.
 
 ## Architecture
 
