@@ -59,7 +59,8 @@ The architecture for the **Global Clime Graph** project is designed to handle da
    - Publish dashboards to Power BI Service for sharing.
    - Automate data updates via scheduled pipelines or triggers.
 
-![Architecture Diagram](A_professional_architecture_diagram_for_the_'Globa.png)
+![Architecture]
+
 
 ## Visualization
 
