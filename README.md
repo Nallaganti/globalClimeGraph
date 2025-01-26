@@ -43,12 +43,9 @@ The **Global Clime Graph** is a comprehensive solution for monitoring and analyz
 ## Visualization
 
 ### Power BI Dashboard
+The sample reports :
+![image](https://github.com/user-attachments/assets/91f9000b-62c0-49dc-98e3-d2408fe65753)
+![image](https://github.com/user-attachments/assets/5f958aff-1ed5-427d-ab36-b90e214204c2)
+![image](https://github.com/user-attachments/assets/92db4e72-de4a-4ec3-be13-60be599d10f0)
 
-The **Global Clime Graph** Power BI dashboard (`globalClimeGraph.pbix`) consolidates processed data into interactive and intuitive visualizations. Key features of the dashboard include:
-
-- **Climate Trends**: Track historical and current trends in temperature, greenhouse gas emissions, and sea levels.
-- **Regional Comparisons**: Compare climate data across different regions.
-- **Anomaly Tracking**: Identify and analyze climate anomalies over time.
-
-The dashboard is designed to be user-friendly, enabling stakeholders to derive actionable insights quickly and efficiently.
 
