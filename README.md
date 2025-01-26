@@ -39,7 +39,11 @@ The **Global Clime Graph** is a comprehensive solution for monitoring and analyz
 ![image](https://github.com/user-attachments/assets/494f60d3-d81b-4846-8ff8-2a83e233f4c8)
 
 ## Services Used
-
+- Azure Data Factory
+- Azure DataLake Gen2
+- Azue Synapse Analytics
+- Azure Databricks
+- 
 ## Power BI Dashboard
 ![image](https://github.com/user-attachments/assets/91f9000b-62c0-49dc-98e3-d2408fe65753)
 ![image](https://github.com/user-attachments/assets/5f958aff-1ed5-427d-ab36-b90e214204c2)
