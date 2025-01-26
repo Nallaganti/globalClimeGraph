@@ -31,8 +31,8 @@ The **Global Clime Graph** is a comprehensive solution for monitoring and analyz
 
 ## Requirements
 
-- **Power BI Desktop**: To view and interact with the `globalClimeGraph.pbix` dashboard.
 - **Microsoft Azure Account**: Project Building.
+- **Power BI Desktop**: To view and interact with the `globalClimeGraph.pbix` dashboard.
 - **Steps to follow**: Use `requirements.txt`.
 
 ## Architecture
